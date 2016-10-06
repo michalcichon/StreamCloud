@@ -7,7 +7,7 @@ abstract_target 'defaults' do
   pod 'AXStatusItemPopup',  :git => 'https://github.com/plaetzchen/AXStatusItemPopup.git', :tag => '0.0.5'
   pod 'LastFm', :inhibit_warnings => true
   pod 'HockeySDK-Mac', '~> 2.1'
-  pod 'MASShortcut', '~> 1.2'
+  pod 'MASShortcut', '~> 2.2.0'
 
   target 'StreamCloud'
   target 'StreamCloud Beta'
